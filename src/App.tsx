@@ -665,7 +665,7 @@ function App() {
           <p>© 2024 Shortest Path Visualizer. All rights reserved.</p>
           <div className="flex items-center gap-1.5 bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 border border-indigo-500/20 px-3.5 py-1.5 rounded-full backdrop-blur-md shadow-sm">
             <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
-            <span>Developed by <strong className="font-extrabold text-indigo-700 dark:text-indigo-300">Harsha devi</strong> and <strong className="font-extrabold text-indigo-700 dark:text-indigo-300">Kevin</strong></span>
+            <span>Developed by <strong className="font-extrabold text-indigo-700 dark:text-indigo-300">Harsha</strong>, <strong className="font-extrabold text-indigo-700 dark:text-indigo-300">Devi</strong>, and <strong className="font-extrabold text-indigo-700 dark:text-indigo-300">Kevin</strong></span>
           </div>
         </footer>
       </main>

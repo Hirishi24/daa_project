@@ -148,7 +148,8 @@ Bellman-Ford computes shortest paths from a single source vertex to all other ve
 
 This project was developed for the Design and Analysis of Algorithms (DAA) study:
 
-- **Harsha devi**
+- **Harsha**
+- **Devi**
 - **Kevin**
 
 Licensed under the [MIT License](LICENSE).
